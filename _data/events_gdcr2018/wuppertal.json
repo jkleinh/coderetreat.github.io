@@ -3,6 +3,10 @@
   "moderators": [
     "@SaschaDoemer"
   ],
+  "sponsors": [
+    "Knipex-Werk C. Gustav Putsch KG",
+    "@LMISAG"
+  ],
   "location": {
     "city": "Wuppertal",
     "country": "Germany",
@@ -10,5 +14,5 @@
       "latitude": 51.210715,
       "longitude": 7.143599
     }
-  }
+  }   
 }
